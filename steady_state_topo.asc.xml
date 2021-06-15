@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201022</CreaDate><CreaTime>13291200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToASCII" Date="20201022" Time="132912">RasterToASCII steady_state_topography.txt C:\Users\Sam\Desktop\steady_state_topo.asc</Process></lineage></DataProperties></Esri></metadata>
